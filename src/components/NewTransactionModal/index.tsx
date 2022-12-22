@@ -26,11 +26,11 @@ export function NewTransactionModal() {
             <input type="text" placeholder="Categoria" />
 
             <TransactionType>
-              <TransacitonTypeButton variant="income">
+              <TransacitonTypeButton variant="income" value="income">
                 <ArrowCircleUp size={24} />
                 Entrada
               </TransacitonTypeButton>
-              <TransacitonTypeButton variant="outcome">
+              <TransacitonTypeButton variant="outcome" value="outcome">
                 <ArrowCircleDown size={24} />
                 Saida
               </TransacitonTypeButton>
