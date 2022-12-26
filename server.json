@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-12-21T15:04:10.969Z"
+    },
+    {
+      "description": "Panetone",
+      "category": "Alimentação",
+      "price": 69,
+      "type": "outcome",
+      "createdAt": "2022-12-26T11:57:11.250Z",
+      "id": 3
+    },
+    {
+      "description": "Lanche",
+      "category": "Alimentação",
+      "price": 120,
+      "type": "outcome",
+      "createdAt": "2022-12-26T12:06:37.643Z",
+      "id": 4
     }
   ]
 }
